@@ -1,0 +1,49 @@
+#Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+*.manifest
+*.spec
+
+#Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+*.env
+Pipfile.lock
+poetry.lock
+
+#PyCharm / JetBrains
+.idea/
+*.iml
+
+#Logs
+*.log
+logs/
+*.out
+*.err
+
+#OS-specific
+.DS_Store
+Thumbs.db
+
+#Testing / Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.dmypy.json
+.pyre/
+.pytype/
+
+#Build / Distribution
+build/
+dist/
+.eggs/
+.wheel/
