@@ -2,6 +2,9 @@
 
 This project is a simple bot that plays the online game [Cookie Clicker](https://orteil.dashnet.org/experiments/cookie/) using **Selenium WebDriver**.  
 The bot automatically clicks the cookie and purchases upgrades whenever available.
+
+![cookie_clicker](cookie_clicker.png)
+
 ---
 ## Features
 - Automatically clicks the cookie.
